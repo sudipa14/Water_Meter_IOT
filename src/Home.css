@@ -1,0 +1,118 @@
+.home{
+    /* margin-top: 8%;
+    margin-left: 5%; */
+    background-color: rgb(174, 203, 248);
+    min-height: 100vh;
+    /* margin-right: 5%; */
+}
+.all{
+    margin-top: 7%;
+    margin-left: 5%;
+    
+}
+#zip{
+    padding-right: 10px;
+    font-size: 16px;
+}
+.space{
+    padding-right: 10px;
+}
+.meter{
+    margin-left: 40px;
+}
+.row{
+    font-size: 16px;;
+}
+.row_first{
+    padding-top: 20px;
+    
+}
+.map{
+    width:515px;
+    height: 400px;
+}
+.row_second{
+    padding-top: 40px;
+}
+.styled_card{
+    width:10rem;
+    height:10rem;
+}
+.last_text{
+    text-align: center;
+    margin-top: 30px;
+    color: black;
+}
+.nav_bars{
+        text-align: left;
+        list-style-type: none;
+        font-size: 16px;
+}
+.styled{
+    width: 12em;
+    height:13em;
+    background-color: white;
+    margin-right: 10px;
+    
+}
+.sp_styled{
+    width: 18em;
+    height:18em;
+    background-color: white;
+    margin-right: 10px;
+    
+}
+.styled2{
+    width: 18em;
+    height:13em;
+    background-color: white;
+    margin-right: 10px;
+    
+}
+.styled3{
+    width: 13em;
+    height:13em;
+    background-color: white;
+    margin-right: 10px;
+    
+}
+.styled_supply{
+    width: 13em;
+    height:12em;
+    background-color: rgb(130, 223, 68);
+    margin-right: 10px;
+    align-self: center;
+    padding-left: 10;
+    
+    
+    
+}
+.styled4{
+    width: 19em;
+    height:16em;
+    background-color: white;
+    margin-right: 10px;
+    
+}
+.styled5{
+    width: 14em;
+    height:16em;
+    background-color: white;
+    margin-right: 10px;
+    
+}
+.off{
+    width:40%;
+    align-self: center;
+    
+}
+.styled_card2{
+    width:16em;
+    height:13em;
+    background-color:white;
+}
+.necessary{
+    
+    text-align: left;
+   
+}
